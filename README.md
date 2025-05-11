@@ -1,13 +1,15 @@
 # 👋 Hi, I’m Mattia Pezzullo
 
-**Backend Engineer** passionate about Java & Cloud-Native systems.
+**Backend Engineer** focused on Java & Cloud-Native stacks.
 
 ---
 
 ## 📝 About
 
-I build and maintain backend services in Java on Kubernetes.  
-Strong focus on throughput, resilience and observability in real-time pipelines.
+I work mainly with Java in backend systems that require high throughput and real-time processing.
+My experience includes building and scaling microservices, working with message brokers like Kafka, and managing data indexing with Elasticsearch.
+I have hands-on experience with Kubernetes, Helm, and containerized deployments.
+
 
 ---
 
