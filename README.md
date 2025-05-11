@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Mattia Pezzullo
 
-<!--
-**mpezzull/mpezzull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer** passionate about Java & Cloud-Native systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 About
+
+I build and maintain backend services in Java on Kubernetes.  
+Strong focus on throughput, resilience and observability in real-time pipelines.
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-brightgreen)  
+![Kubernetes](https://img.shields.io/badge/K8s-MicroK8s-blue)  
+![Kafka](https://img.shields.io/badge/Kafka-%E2%89%A520%20k%20EPS-orange)  
+![Elasticsearch](https://img.shields.io/badge/Elastic-7.x-yellow)  
+![Docker](https://img.shields.io/badge/Docker-container-blue)  
+
+---
+
+## 📫 Get in Touch
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mattia-pezzullo/)  
